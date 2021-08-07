@@ -20,9 +20,9 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teja-sudo&show_icons=true&locale=en&layout=compact" alt="Teja" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Teja-sudo&show_icons=true&locale=en&layout=compact" alt="Teja-sudo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teja-sudo&show_icons=true&locale=en" alt="Teja" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Teja-sudo&show_icons=true&locale=en" alt="Teja-sudo" /></p>
 
 
 
