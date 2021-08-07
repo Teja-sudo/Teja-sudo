@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=Teja-sudo)
+[![Teja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teja-sudo)](https://github.com/Teja-sudo/github-readme-stats)
 
