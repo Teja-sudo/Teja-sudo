@@ -10,11 +10,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"  style="background-color:#c5cfba;padding:20px;>Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teja_sanikommu" target="blank" style="background-color:#c5cfba;padding:20px;><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Teja" height="30" width="40"  /></a> 
-<a href="https://linkedin.com/in/sanikommuteja/" target="blank" style="background-color:#c5cfba;padding:20px;><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanikommuteja" height="30" width="40" /></a>
-<a href="https://instagram.com/sanikommu.teja/" target="blank" style="background-color:#c5cfba;padding:20px;><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanikommu.teja/" height="30" width="40"/></a>
+<a href="https://twitter.com/teja_sanikommu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Teja" height="30" width="40"  /></a> 
+<a href="https://linkedin.com/in/sanikommuteja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sanikommuteja" height="30" width="40" /></a>
+<a href="https://instagram.com/sanikommu.teja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sanikommu.teja/" height="30" width="40"/></a>
 
 </p>
 
