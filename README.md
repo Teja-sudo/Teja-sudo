@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQE6KZ6Ks45OkA/profile-displaybackgroundimage-shrink_350_1400/0/1611339671401?e=1633564800&v=beta&t=5AmzSIz0KZkQyuTXfm3C3IwMCqgvPy9oPxakpMQgWOY)](https://github.com/Teja-sudo)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFlQE6cyCAQIA/profile-displaybackgroundimage-shrink_350_1400/0/1611068602256?e=1635984000&v=beta&t=oF50sm-70-ZxOAhBq4r4XFafGEW-iL3aAM5l_o8vd54)](https://github.com/Teja-sudo)
 <h1 align="center">Hi 👋, I'm Sanikommu Teja</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
