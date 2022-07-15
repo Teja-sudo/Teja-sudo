@@ -1,6 +1,6 @@
 [![MasterHead](https://drive.google.com/file/d/1Xb0sFW0Ok6pDCIT4iB6atX7NIR5EQCRe/view?usp=sharing)](https://github.com/Teja-sudo)
 <h1 align="center">Hi 👋, I'm Sanikommu Teja</h1>
-<h3 align="center">Developer</h3>
+<h3 align="center">A Developer</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/fad467cdc0a07cca1765ae3f2bb1ab39d79802cdfe1d56f647fcf3dfd16c7591/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d54656a612d7375646f" alt="Teja-sudo" /> </p>
 <!--<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
