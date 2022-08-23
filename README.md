@@ -23,9 +23,10 @@
 </p> -->
 
 <br/><br/>
-<p><span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-sudo&layout=compact" alt="Teja-sudo" /></span>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teja-sudo&show_icons=true" alt="Teja-sudo" /></span></p>
+<p>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teja-sudo&layout=compact" alt="Teja-sudo" /></span>
+<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=teja-sudo&show_icons=true" alt="Teja-sudo" /></span>
+</p>
 
 
 
